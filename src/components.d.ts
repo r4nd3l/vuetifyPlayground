@@ -8,9 +8,9 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
-    ExpansionPanelBasic: typeof import('./components/ExpansionPanelBasic.vue')['default']
-    ExpansionPanelFaq: typeof import('./components/ExpansionPanelFaq.vue')['default']
-    ExpansionPanelForm: typeof import('./components/ExpansionPanelForm.vue')['default']
+    ExpansionPanelBasic: typeof import('./components/expansions/ExpansionPanelBasic.vue')['default']
+    ExpansionPanelFaq: typeof import('./components/expansions/ExpansionPanelFaq.vue')['default']
+    ExpansionPanelForm: typeof import('./components/expansions/ExpansionPanelForm.vue')['default']
     HelloWorld: typeof import('./components/HelloWorld.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
