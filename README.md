@@ -1,6 +1,3 @@
-Here's a clean, professional README.md for your newly created Vuetify project:
-
-````markdown
 # 🚀 Vuetify Application
 
 A modern Vue.js application built with Vuetify 3, featuring Material Design components and a responsive layout.
@@ -34,11 +31,11 @@ A modern Vue.js application built with Vuetify 3, featuring Material Design comp
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone <your-repo-url>
    cd your-project-name
    ```
-````
 
 2. **Install dependencies**
 
