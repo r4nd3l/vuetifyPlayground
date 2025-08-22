@@ -9,6 +9,7 @@ export {}
 declare module 'vue' {
   export interface GlobalComponents {
     ExpansionPanelBasic: typeof import('./components/expansions/ExpansionPanelBasic.vue')['default']
+    ExpansionPanelDynamic: typeof import('./components/expansions/ExpansionPanelDynamic.vue')['default']
     ExpansionPanelFaq: typeof import('./components/expansions/ExpansionPanelFaq.vue')['default']
     ExpansionPanelForm: typeof import('./components/expansions/ExpansionPanelForm.vue')['default']
     HelloWorld: typeof import('./components/HelloWorld.vue')['default']

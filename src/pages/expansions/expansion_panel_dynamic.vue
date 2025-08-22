@@ -1,5 +1,5 @@
 <template>
-  <HelloWorld />
+  <ExpansionPanelDynamic />
 </template>
 
 <script lang="ts" setup>
