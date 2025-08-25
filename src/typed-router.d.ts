@@ -23,5 +23,11 @@ declare module 'vue-router/auto-routes' {
     '/expansions/expansion_panel_dynamic': RouteRecordInfo<'/expansions/expansion_panel_dynamic', '/expansions/expansion_panel_dynamic', Record<never, never>, Record<never, never>>,
     '/expansions/expansion_panel_faq': RouteRecordInfo<'/expansions/expansion_panel_faq', '/expansions/expansion_panel_faq', Record<never, never>, Record<never, never>>,
     '/expansions/expansion_panel_form': RouteRecordInfo<'/expansions/expansion_panel_form', '/expansions/expansion_panel_form', Record<never, never>, Record<never, never>>,
+    '/forms/form_easy_01': RouteRecordInfo<'/forms/form_easy_01', '/forms/form_easy_01', Record<never, never>, Record<never, never>>,
+    '/forms/form_easy_02': RouteRecordInfo<'/forms/form_easy_02', '/forms/form_easy_02', Record<never, never>, Record<never, never>>,
+    '/forms/form_hard_01': RouteRecordInfo<'/forms/form_hard_01', '/forms/form_hard_01', Record<never, never>, Record<never, never>>,
+    '/forms/form_hard_02': RouteRecordInfo<'/forms/form_hard_02', '/forms/form_hard_02', Record<never, never>, Record<never, never>>,
+    '/forms/form_medium_01': RouteRecordInfo<'/forms/form_medium_01', '/forms/form_medium_01', Record<never, never>, Record<never, never>>,
+    '/forms/form_medium_02': RouteRecordInfo<'/forms/form_medium_02', '/forms/form_medium_02', Record<never, never>, Record<never, never>>,
   }
 }
